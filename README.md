@@ -45,5 +45,6 @@ Most of the users are going to be males who subscribe which would mean that user
 
 
 ---
-Link to Tableau story
-[link to dashboard](https://public.tableau.com/app/profile/tori.b1998/viz/CitiBike_16577270028740/NYCStory)
+
+--
+[Tableau story here](https://public.tableau.com/app/profile/tori.b1998/viz/CitiBike_16577270028740/NYCStory)
