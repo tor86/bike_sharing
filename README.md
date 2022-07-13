@@ -44,4 +44,6 @@ Analysis
 Most of the users are going to be males who subscribe which would mean that users are going to be residents of NYC vs tourists with most use being during commuter hours. Knowing that we would want to see how the city of Des Moines gets around traditionally as well as amount of males in the population residing in the city when taking into account investing in Des Moines.
 
 
-
+---
+Link to Tableau story
+[link to dashboard](https://public.tableau.com/app/profile/tori.b1998/viz/CitiBike_16577270028740/NYCStory)
